@@ -1,0 +1,5 @@
+{
+  "database_type": "mongodb",
+  "connection_url": "mongodb://localhost:27017/analytics_db",
+  "last_updated": "2025-12-24T17:35:46.999510"
+}
